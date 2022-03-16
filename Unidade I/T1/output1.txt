@@ -1,0 +1,13 @@
+Statistics: 
+d1.txt-> 5 words
+d2.txt-> 3 words
+d3.txt-> 20 words
+lahlah
+lahlahlah
+lahlahbla
+zazalah
+aarauslah
+Statistics: 
+d1.txt-> 2 words
+d2.txt-> 2 words
+d3.txt-> 19 words

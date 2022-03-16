@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1624301874 source:c:\users\leipe\onedrive\documentos\aulas de programação c e c++\teste1\dictionary.cpp
+	"dictionary.hpp"
+
+1624301874 c:\users\leipe\onedrive\documentos\aulas de programação c e c++\teste1\dictionary.hpp
+	<iostream>
+	<fstream>
+	<vector>
+
+1624649216 source:c:\users\leipe\onedrive\documentos\aulas de programação c e c++\teste1\main.cpp
+	"dictionary.hpp"
+
+1624811668 source:c:\users\leipe\teste1\dictionary.cpp
+	"dictionary.hpp"
+
+1624301874 c:\users\leipe\teste1\dictionary.hpp
+	<iostream>
+	<fstream>
+	<vector>
+
+1624813182 source:c:\users\leipe\teste1\main.cpp
+	"dictionary.hpp"
+

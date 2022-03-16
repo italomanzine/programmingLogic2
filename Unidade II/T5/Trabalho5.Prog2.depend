@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1627568675 source:c:\users\leipe\onedrive\documentos\aulas de programação c e c++\trabalho5.prog2\main.cpp
+	"shapes.hpp"
+	"shapes.hpp"
+
+1627499304 c:\users\leipe\onedrive\documentos\aulas de programação c e c++\trabalho5.prog2\shapes.hpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<cmath>
+	<fstream>
+
+1627499303 source:c:\users\leipe\onedrive\documentos\aulas de programação c e c++\trabalho5.prog2\shapes.cpp
+	"shapes.hpp"
+	<cmath>
+
+1627741589 source:c:\users\leipe\onedrive\documentos\aulas de programação c e c++\trabalho5.prog2\biblioteca.cpp
+	"biblioteca.hpp"
+
+1627741592 c:\users\leipe\onedrive\documentos\aulas de programação c e c++\trabalho5.prog2\biblioteca.hpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<cmath>
+	<fstream>
+
+1627741604 source:c:\users\leipe\onedrive\documentos\aulas de programação c e c++\trabalho5.prog2\main (6).cpp
+	"biblioteca.hpp"
+	"biblioteca.cpp"
+
+1627741589 c:\users\leipe\onedrive\documentos\aulas de programação c e c++\trabalho5.prog2\biblioteca.cpp
+	"biblioteca.hpp"
+
+1627741589 source:c:\trabalho5.prog2\biblioteca.cpp
+	"biblioteca.hpp"
+
+1627741592 c:\trabalho5.prog2\biblioteca.hpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<cmath>
+	<fstream>
+
+1627741604 source:c:\trabalho5.prog2\main (6).cpp
+	"biblioteca.hpp"
+	"biblioteca.cpp"
+
+1627742417 c:\trabalho5.prog2\biblioteca.cpp
+	"biblioteca.hpp"
+	<cmath>
+
+1627742618 source:c:\trabalho5.prog2\shapes.cpp
+	"shapes.hpp"
+	<cmath>
+
+1627742618 c:\trabalho5.prog2\shapes.hpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<cmath>
+	<fstream>
+
+1627742417 source:c:\users\leipe\trabalho5.prog2\biblioteca.cpp
+	"biblioteca.hpp"
+	<cmath>
+
+1627741592 c:\users\leipe\trabalho5.prog2\biblioteca.hpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<cmath>
+	<fstream>
+
+1627829441 source:c:\users\leipe\trabalho5.prog2\main (6).cpp
+	"biblioteca.hpp"
+	<iomanip>
+
+1627499304 source:c:\users\leipe\trabalho5.prog2\shapes.cpp
+	"shapes.hpp"
+	<cmath>
+
+1627499306 c:\users\leipe\trabalho5.prog2\shapes.hpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<cmath>
+	<fstream>
+

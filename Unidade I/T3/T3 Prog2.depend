@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1626093959 source:c:\t3 prog2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<cstring>
+
+1626131155 source:c:\users\leipe\t3 prog2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<cstring>
+

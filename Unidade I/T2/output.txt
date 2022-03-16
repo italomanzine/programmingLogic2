@@ -1,0 +1,88 @@
+MY PAPA'S COMPANY - SIG
+1. Add PF...
+2. Add PJ...
+3. Remove PF Index...
+4. Remove PJ Index...
+5. Print Names in Ascending Order
+6. Exit
+Enter an option: 
+Digite todos os dados da pessoa: Nome, nomeMae,CPF,Endereco e Telefone
+MY PAPA'S COMPANY - SIG
+1. Add PF...
+2. Add PJ...
+3. Remove PF Index...
+4. Remove PJ Index...
+5. Print Names in Ascending Order
+6. Exit
+Enter an option: 
+Digite todos os dados da pessoa: Nome, nomeMae,CPF,Endereco e Telefone
+MY PAPA'S COMPANY - SIG
+1. Add PF...
+2. Add PJ...
+3. Remove PF Index...
+4. Remove PJ Index...
+5. Print Names in Ascending Order
+6. Exit
+Enter an option: 
+Digite todos os dados da pessoa: razaoSocial, CNPJ,Endereco,Telefone e capitalSocial
+MY PAPA'S COMPANY - SIG
+1. Add PF...
+2. Add PJ...
+3. Remove PF Index...
+4. Remove PJ Index...
+5. Print Names in Ascending Order
+6. Exit
+Enter an option: 
+Digite todos os dados da pessoa: Nome, nomeMae,CPF,Endereco e Telefone
+MY PAPA'S COMPANY - SIG
+1. Add PF...
+2. Add PJ...
+3. Remove PF Index...
+4. Remove PJ Index...
+5. Print Names in Ascending Order
+6. Exit
+Enter an option: 
+
+Antonio Sobieranski
+Mamae
+000.000.000-77
+UFxC
+48 8888 8888
+
+Jose da Silva
+Joseph's Mama
+222.222.222-33
+None
+48 9999 9999
+
+Pedro Pereira
+Pedro's Mama
+444.444.444-44
+None
+None
+
+Antonio Sobieranski
+Mamae
+000.000.000-77
+UFxC
+48 8888 8888
+
+Jose da Silva
+Joseph's Mama
+222.222.222-33
+None
+48 9999 9999
+
+Pedro Pereira
+Pedro's Mama
+444.444.444-44
+None
+None
+MY PAPA'S COMPANY - SIG
+1. Add PF...
+2. Add PJ...
+3. Remove PF Index...
+4. Remove PJ Index...
+5. Print Names in Ascending Order
+6. Exit
+Enter an option: 

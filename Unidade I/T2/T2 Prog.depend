@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1625408583 source:c:\users\leipe\t2 prog\personpf.cpp
+	"personPF.hpp"
+	<string>
+
+1625254013 c:\users\leipe\t2 prog\personpf.hpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<string>
+
+1625405938 source:c:\users\leipe\t2 prog\main.cpp
+	"personPF.hpp"
+	<iostream>
+	<vector>
+
+1625408584 source:c:\users\leipe\t2 prog (2)\t2 prog\personpf.cpp
+	"personPF.hpp"
+	<string>
+
+1625254014 c:\users\leipe\t2 prog (2)\t2 prog\personpf.hpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<string>
+
